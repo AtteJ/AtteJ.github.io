@@ -1,0 +1,12 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+
+# Current active projects
+
+## [Sudoku Supreme]({% link sudoku/index.markdown %})
+A mobile sudoku game with randomly generated sudoku grids.<br>
+See: [Google Play](https://play.google.com/store/apps/details?id=com.attej.sudoku)
