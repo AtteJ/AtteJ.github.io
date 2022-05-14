@@ -4,7 +4,7 @@
 
 layout: default
 ---
-
+{::options parse_block_html="true" /}
 # Current active projects
 
 ## [Sudoku Supreme]({% link sudoku/index.markdown %})
