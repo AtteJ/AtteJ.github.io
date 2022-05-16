@@ -9,4 +9,4 @@ layout: default
 
 ## [Sudoku Supreme]({% link sudoku/index.markdown %})
 A mobile sudoku game with randomly generated sudoku grids.<br>
-See: [Google Play](https://play.google.com/store/apps/details?id=com.attej.sudoku)
+See: <a href="https://play.google.com/store/apps/details?id=com.attej.sudoku" target="_blank">Sudoku Supreme in Google Play</a>
