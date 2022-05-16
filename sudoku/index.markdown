@@ -7,7 +7,6 @@ title: Sudoku Supreme
 description: An android mobile sudoku game with randomly generated grids
 ---
 {::options parse_block_html="true" /}
-### [Back to main page]({% link index.markdown %})
 
 # Sudoku Supreme
 
