@@ -4,6 +4,7 @@
 
 layout: default
 title: Sudoku Supreme
+permalink: /sudoku/
 description: An android mobile sudoku game with randomly generated grids
 ---
 {::options parse_block_html="true" /}
@@ -23,6 +24,8 @@ description: An android mobile sudoku game with randomly generated grids
     - Amount of played games
     - Amount of won games
 - Automatic checking of correct numbers. Three mistakes per game.
+
+<a href="https://play.google.com/store/apps/details?id=com.attej.sudoku" target="_blank">Sudoku Supreme in Google Play</a>
 
 ## Other
 - [Data Protection Policy]({% link sudoku/data_protection_policy.markdown %})

@@ -1,4 +1,4 @@
-I"Š
+I"
 <h1 id="sudoku-supreme">Sudoku Supreme</h1>
 
 <p><img style="float: right;" src="../assets/images/gameplay_screen.png" /></p>
@@ -22,6 +22,8 @@
   </li>
   <li>Automatic checking of correct numbers. Three mistakes per game.</li>
 </ul>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.attej.sudoku" target="_blank">Sudoku Supreme in Google Play</a></p>
 
 <h2 id="other">Other</h2>
 <ul>
