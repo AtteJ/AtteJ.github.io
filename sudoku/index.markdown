@@ -24,6 +24,9 @@ description: An android mobile sudoku game with randomly generated grids
     - Amount of played games
     - Amount of won games
 - Automatic checking of correct numbers. Three mistakes per game.
+- Google Play Games integration
+    - Leaderboards for each difficulty
+    - Achievements
 
 <a href="https://play.google.com/store/apps/details?id=com.attej.sudoku" target="_blank">Sudoku Supreme in Google Play</a>
 
