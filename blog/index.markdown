@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+description: Posts about my various interests
 ---
 # Posts
 {% for post in site.posts %}
@@ -8,7 +9,7 @@ title: Blog
 <ul>
  
 <li>
-    <h3><a href="{{ post.url | relative_url }}">{{ post.date|date: "%d.%m.%Y"  }}  {{ post.title }}</a></h3>
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
 </li>
  
 </ul>{% endfor %}
