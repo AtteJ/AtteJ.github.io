@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-29T13:46:33+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Atte Jokinen</title><subtitle>A homepage for various projects.</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-29T14:25:08+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Atte Jokinen</title><subtitle>A homepage for various projects.</subtitle><entry><title type="html">First Blog Post</title><link href="http://localhost:4000/2022/08/29/First-Blog-Post.html" rel="alternate" type="text/html" title="First Blog Post" /><published>2022-08-29T00:00:00+03:00</published><updated>2022-08-29T00:00:00+03:00</updated><id>http://localhost:4000/2022/08/29/First-Blog-Post</id><content type="html" xml:base="http://localhost:4000/2022/08/29/First-Blog-Post.html"><![CDATA[<h1 id="welcome-to-my-new-blog">Welcome to my new blog</h1>
+<p>
+I just created a new blog on my site to write about stuff that doesn’t merit it’s own page. I’ll probably start writing
+about cooking, growing plants and programming or whatever my new hobby happens to be at the moment. 
+</p>
+<p>
+The blog is still under construction so it will be a bit crude looking for a while. I’ll try to improve the look of 
+the blog and add tags to filter posts by category.
+</p>]]></content><author><name></name></author></entry></feed>
